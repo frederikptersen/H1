@@ -1,0 +1,14 @@
+D:\Datatekniker\H1\Grundlæggende programmering\ElementaryOperations\bin\Debug\net8.0\ElementaryOperations.exe
+D:\Datatekniker\H1\Grundlæggende programmering\ElementaryOperations\bin\Debug\net8.0\ElementaryOperations.deps.json
+D:\Datatekniker\H1\Grundlæggende programmering\ElementaryOperations\bin\Debug\net8.0\ElementaryOperations.runtimeconfig.json
+D:\Datatekniker\H1\Grundlæggende programmering\ElementaryOperations\bin\Debug\net8.0\ElementaryOperations.dll
+D:\Datatekniker\H1\Grundlæggende programmering\ElementaryOperations\bin\Debug\net8.0\ElementaryOperations.pdb
+D:\Datatekniker\H1\Grundlæggende programmering\ElementaryOperations\obj\Debug\net8.0\ElementaryOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Datatekniker\H1\Grundlæggende programmering\ElementaryOperations\obj\Debug\net8.0\ElementaryOperations.AssemblyInfoInputs.cache
+D:\Datatekniker\H1\Grundlæggende programmering\ElementaryOperations\obj\Debug\net8.0\ElementaryOperations.AssemblyInfo.cs
+D:\Datatekniker\H1\Grundlæggende programmering\ElementaryOperations\obj\Debug\net8.0\ElementaryOperations.csproj.CoreCompileInputs.cache
+D:\Datatekniker\H1\Grundlæggende programmering\ElementaryOperations\obj\Debug\net8.0\ElementaryOperations.dll
+D:\Datatekniker\H1\Grundlæggende programmering\ElementaryOperations\obj\Debug\net8.0\refint\ElementaryOperations.dll
+D:\Datatekniker\H1\Grundlæggende programmering\ElementaryOperations\obj\Debug\net8.0\ElementaryOperations.pdb
+D:\Datatekniker\H1\Grundlæggende programmering\ElementaryOperations\obj\Debug\net8.0\ElementaryOperations.genruntimeconfig.cache
+D:\Datatekniker\H1\Grundlæggende programmering\ElementaryOperations\obj\Debug\net8.0\ref\ElementaryOperations.dll

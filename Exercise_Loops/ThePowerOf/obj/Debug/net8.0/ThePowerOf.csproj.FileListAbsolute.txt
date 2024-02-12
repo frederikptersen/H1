@@ -1,0 +1,14 @@
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\ThePowerOf\bin\Debug\net8.0\ThePowerOf.exe
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\ThePowerOf\bin\Debug\net8.0\ThePowerOf.deps.json
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\ThePowerOf\bin\Debug\net8.0\ThePowerOf.runtimeconfig.json
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\ThePowerOf\bin\Debug\net8.0\ThePowerOf.dll
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\ThePowerOf\bin\Debug\net8.0\ThePowerOf.pdb
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\ThePowerOf\obj\Debug\net8.0\ThePowerOf.GeneratedMSBuildEditorConfig.editorconfig
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\ThePowerOf\obj\Debug\net8.0\ThePowerOf.AssemblyInfoInputs.cache
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\ThePowerOf\obj\Debug\net8.0\ThePowerOf.AssemblyInfo.cs
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\ThePowerOf\obj\Debug\net8.0\ThePowerOf.csproj.CoreCompileInputs.cache
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\ThePowerOf\obj\Debug\net8.0\ThePowerOf.dll
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\ThePowerOf\obj\Debug\net8.0\refint\ThePowerOf.dll
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\ThePowerOf\obj\Debug\net8.0\ThePowerOf.pdb
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\ThePowerOf\obj\Debug\net8.0\ThePowerOf.genruntimeconfig.cache
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\ThePowerOf\obj\Debug\net8.0\ref\ThePowerOf.dll

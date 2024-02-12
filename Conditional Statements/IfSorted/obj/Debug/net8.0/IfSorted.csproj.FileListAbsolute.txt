@@ -1,0 +1,14 @@
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\IfSorted\bin\Debug\net8.0\IfSorted.exe
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\IfSorted\bin\Debug\net8.0\IfSorted.deps.json
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\IfSorted\bin\Debug\net8.0\IfSorted.runtimeconfig.json
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\IfSorted\bin\Debug\net8.0\IfSorted.dll
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\IfSorted\bin\Debug\net8.0\IfSorted.pdb
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\IfSorted\obj\Debug\net8.0\IfSorted.GeneratedMSBuildEditorConfig.editorconfig
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\IfSorted\obj\Debug\net8.0\IfSorted.AssemblyInfoInputs.cache
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\IfSorted\obj\Debug\net8.0\IfSorted.AssemblyInfo.cs
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\IfSorted\obj\Debug\net8.0\IfSorted.csproj.CoreCompileInputs.cache
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\IfSorted\obj\Debug\net8.0\IfSorted.dll
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\IfSorted\obj\Debug\net8.0\refint\IfSorted.dll
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\IfSorted\obj\Debug\net8.0\IfSorted.pdb
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\IfSorted\obj\Debug\net8.0\IfSorted.genruntimeconfig.cache
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\IfSorted\obj\Debug\net8.0\ref\IfSorted.dll

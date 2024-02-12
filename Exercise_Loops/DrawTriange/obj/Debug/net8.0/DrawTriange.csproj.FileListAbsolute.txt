@@ -1,0 +1,14 @@
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\DrawTriange\bin\Debug\net8.0\DrawTriange.exe
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\DrawTriange\bin\Debug\net8.0\DrawTriange.deps.json
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\DrawTriange\bin\Debug\net8.0\DrawTriange.runtimeconfig.json
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\DrawTriange\bin\Debug\net8.0\DrawTriange.dll
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\DrawTriange\bin\Debug\net8.0\DrawTriange.pdb
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\DrawTriange\obj\Debug\net8.0\DrawTriange.GeneratedMSBuildEditorConfig.editorconfig
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\DrawTriange\obj\Debug\net8.0\DrawTriange.AssemblyInfoInputs.cache
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\DrawTriange\obj\Debug\net8.0\DrawTriange.AssemblyInfo.cs
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\DrawTriange\obj\Debug\net8.0\DrawTriange.csproj.CoreCompileInputs.cache
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\DrawTriange\obj\Debug\net8.0\DrawTriange.dll
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\DrawTriange\obj\Debug\net8.0\refint\DrawTriange.dll
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\DrawTriange\obj\Debug\net8.0\DrawTriange.pdb
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\DrawTriange\obj\Debug\net8.0\DrawTriange.genruntimeconfig.cache
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\DrawTriange\obj\Debug\net8.0\ref\DrawTriange.dll

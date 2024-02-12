@@ -1,0 +1,14 @@
+D:\Datatekniker\H1\Grundlæggende programmering\IsResultTheSame\bin\Debug\net8.0\IsResultTheSame.exe
+D:\Datatekniker\H1\Grundlæggende programmering\IsResultTheSame\bin\Debug\net8.0\IsResultTheSame.deps.json
+D:\Datatekniker\H1\Grundlæggende programmering\IsResultTheSame\bin\Debug\net8.0\IsResultTheSame.runtimeconfig.json
+D:\Datatekniker\H1\Grundlæggende programmering\IsResultTheSame\bin\Debug\net8.0\IsResultTheSame.dll
+D:\Datatekniker\H1\Grundlæggende programmering\IsResultTheSame\bin\Debug\net8.0\IsResultTheSame.pdb
+D:\Datatekniker\H1\Grundlæggende programmering\IsResultTheSame\obj\Debug\net8.0\IsResultTheSame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Datatekniker\H1\Grundlæggende programmering\IsResultTheSame\obj\Debug\net8.0\IsResultTheSame.AssemblyInfoInputs.cache
+D:\Datatekniker\H1\Grundlæggende programmering\IsResultTheSame\obj\Debug\net8.0\IsResultTheSame.AssemblyInfo.cs
+D:\Datatekniker\H1\Grundlæggende programmering\IsResultTheSame\obj\Debug\net8.0\IsResultTheSame.csproj.CoreCompileInputs.cache
+D:\Datatekniker\H1\Grundlæggende programmering\IsResultTheSame\obj\Debug\net8.0\IsResultTheSame.dll
+D:\Datatekniker\H1\Grundlæggende programmering\IsResultTheSame\obj\Debug\net8.0\refint\IsResultTheSame.dll
+D:\Datatekniker\H1\Grundlæggende programmering\IsResultTheSame\obj\Debug\net8.0\IsResultTheSame.pdb
+D:\Datatekniker\H1\Grundlæggende programmering\IsResultTheSame\obj\Debug\net8.0\IsResultTheSame.genruntimeconfig.cache
+D:\Datatekniker\H1\Grundlæggende programmering\IsResultTheSame\obj\Debug\net8.0\ref\IsResultTheSame.dll

@@ -1,0 +1,14 @@
+D:\Datatekniker\H1\Grundlæggende programmering\ModuloOperations\obj\Debug\net8.0\ModuloOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Datatekniker\H1\Grundlæggende programmering\ModuloOperations\obj\Debug\net8.0\ModuloOperations.AssemblyInfoInputs.cache
+D:\Datatekniker\H1\Grundlæggende programmering\ModuloOperations\obj\Debug\net8.0\ModuloOperations.AssemblyInfo.cs
+D:\Datatekniker\H1\Grundlæggende programmering\ModuloOperations\obj\Debug\net8.0\ModuloOperations.csproj.CoreCompileInputs.cache
+D:\Datatekniker\H1\Grundlæggende programmering\ModuloOperations\bin\Debug\net8.0\ModuloOperations.exe
+D:\Datatekniker\H1\Grundlæggende programmering\ModuloOperations\bin\Debug\net8.0\ModuloOperations.deps.json
+D:\Datatekniker\H1\Grundlæggende programmering\ModuloOperations\bin\Debug\net8.0\ModuloOperations.runtimeconfig.json
+D:\Datatekniker\H1\Grundlæggende programmering\ModuloOperations\bin\Debug\net8.0\ModuloOperations.dll
+D:\Datatekniker\H1\Grundlæggende programmering\ModuloOperations\bin\Debug\net8.0\ModuloOperations.pdb
+D:\Datatekniker\H1\Grundlæggende programmering\ModuloOperations\obj\Debug\net8.0\ModuloOperations.dll
+D:\Datatekniker\H1\Grundlæggende programmering\ModuloOperations\obj\Debug\net8.0\refint\ModuloOperations.dll
+D:\Datatekniker\H1\Grundlæggende programmering\ModuloOperations\obj\Debug\net8.0\ModuloOperations.pdb
+D:\Datatekniker\H1\Grundlæggende programmering\ModuloOperations\obj\Debug\net8.0\ModuloOperations.genruntimeconfig.cache
+D:\Datatekniker\H1\Grundlæggende programmering\ModuloOperations\obj\Debug\net8.0\ref\ModuloOperations.dll

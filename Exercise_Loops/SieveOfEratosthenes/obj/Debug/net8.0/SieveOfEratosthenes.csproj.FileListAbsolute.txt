@@ -1,0 +1,14 @@
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\SieveOfEratosthenes\bin\Debug\net8.0\SieveOfEratosthenes.exe
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\SieveOfEratosthenes\bin\Debug\net8.0\SieveOfEratosthenes.deps.json
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\SieveOfEratosthenes\bin\Debug\net8.0\SieveOfEratosthenes.runtimeconfig.json
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\SieveOfEratosthenes\bin\Debug\net8.0\SieveOfEratosthenes.dll
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\SieveOfEratosthenes\bin\Debug\net8.0\SieveOfEratosthenes.pdb
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\SieveOfEratosthenes\obj\Debug\net8.0\SieveOfEratosthenes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\SieveOfEratosthenes\obj\Debug\net8.0\SieveOfEratosthenes.AssemblyInfoInputs.cache
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\SieveOfEratosthenes\obj\Debug\net8.0\SieveOfEratosthenes.AssemblyInfo.cs
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\SieveOfEratosthenes\obj\Debug\net8.0\SieveOfEratosthenes.csproj.CoreCompileInputs.cache
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\SieveOfEratosthenes\obj\Debug\net8.0\SieveOfEratosthenes.dll
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\SieveOfEratosthenes\obj\Debug\net8.0\refint\SieveOfEratosthenes.dll
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\SieveOfEratosthenes\obj\Debug\net8.0\SieveOfEratosthenes.pdb
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\SieveOfEratosthenes\obj\Debug\net8.0\SieveOfEratosthenes.genruntimeconfig.cache
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\SieveOfEratosthenes\obj\Debug\net8.0\ref\SieveOfEratosthenes.dll

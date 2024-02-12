@@ -1,0 +1,14 @@
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\MultiplicationTable\bin\Debug\net8.0\MultiplicationTable.exe
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\MultiplicationTable\bin\Debug\net8.0\MultiplicationTable.deps.json
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\MultiplicationTable\bin\Debug\net8.0\MultiplicationTable.runtimeconfig.json
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\MultiplicationTable\bin\Debug\net8.0\MultiplicationTable.dll
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\MultiplicationTable\bin\Debug\net8.0\MultiplicationTable.pdb
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\MultiplicationTable\obj\Debug\net8.0\MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\MultiplicationTable\obj\Debug\net8.0\MultiplicationTable.AssemblyInfoInputs.cache
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\MultiplicationTable\obj\Debug\net8.0\MultiplicationTable.AssemblyInfo.cs
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\MultiplicationTable\obj\Debug\net8.0\MultiplicationTable.csproj.CoreCompileInputs.cache
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\MultiplicationTable\obj\Debug\net8.0\MultiplicationTable.dll
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\MultiplicationTable\obj\Debug\net8.0\refint\MultiplicationTable.dll
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\MultiplicationTable\obj\Debug\net8.0\MultiplicationTable.pdb
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\MultiplicationTable\obj\Debug\net8.0\MultiplicationTable.genruntimeconfig.cache
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\MultiplicationTable\obj\Debug\net8.0\ref\MultiplicationTable.dll

@@ -1,0 +1,14 @@
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\IfNumber\bin\Debug\net8.0\IfNumber.exe
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\IfNumber\bin\Debug\net8.0\IfNumber.deps.json
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\IfNumber\bin\Debug\net8.0\IfNumber.runtimeconfig.json
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\IfNumber\bin\Debug\net8.0\IfNumber.dll
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\IfNumber\bin\Debug\net8.0\IfNumber.pdb
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\IfNumber\obj\Debug\net8.0\IfNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\IfNumber\obj\Debug\net8.0\IfNumber.AssemblyInfoInputs.cache
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\IfNumber\obj\Debug\net8.0\IfNumber.AssemblyInfo.cs
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\IfNumber\obj\Debug\net8.0\IfNumber.csproj.CoreCompileInputs.cache
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\IfNumber\obj\Debug\net8.0\IfNumber.dll
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\IfNumber\obj\Debug\net8.0\refint\IfNumber.dll
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\IfNumber\obj\Debug\net8.0\IfNumber.pdb
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\IfNumber\obj\Debug\net8.0\IfNumber.genruntimeconfig.cache
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\IfNumber\obj\Debug\net8.0\ref\IfNumber.dll

@@ -1,0 +1,14 @@
+D:\Datatekniker\H1\Grundlæggende programmering\Celcius to Fahrenheit\bin\Debug\net8.0\Celcius to Fahrenheit.exe
+D:\Datatekniker\H1\Grundlæggende programmering\Celcius to Fahrenheit\bin\Debug\net8.0\Celcius to Fahrenheit.deps.json
+D:\Datatekniker\H1\Grundlæggende programmering\Celcius to Fahrenheit\bin\Debug\net8.0\Celcius to Fahrenheit.runtimeconfig.json
+D:\Datatekniker\H1\Grundlæggende programmering\Celcius to Fahrenheit\bin\Debug\net8.0\Celcius to Fahrenheit.dll
+D:\Datatekniker\H1\Grundlæggende programmering\Celcius to Fahrenheit\bin\Debug\net8.0\Celcius to Fahrenheit.pdb
+D:\Datatekniker\H1\Grundlæggende programmering\Celcius to Fahrenheit\obj\Debug\net8.0\Celcius to Fahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Datatekniker\H1\Grundlæggende programmering\Celcius to Fahrenheit\obj\Debug\net8.0\Celcius to Fahrenheit.AssemblyInfoInputs.cache
+D:\Datatekniker\H1\Grundlæggende programmering\Celcius to Fahrenheit\obj\Debug\net8.0\Celcius to Fahrenheit.AssemblyInfo.cs
+D:\Datatekniker\H1\Grundlæggende programmering\Celcius to Fahrenheit\obj\Debug\net8.0\Celcius to Fahrenheit.csproj.CoreCompileInputs.cache
+D:\Datatekniker\H1\Grundlæggende programmering\Celcius to Fahrenheit\obj\Debug\net8.0\Celcius to Fahrenheit.dll
+D:\Datatekniker\H1\Grundlæggende programmering\Celcius to Fahrenheit\obj\Debug\net8.0\refint\Celcius to Fahrenheit.dll
+D:\Datatekniker\H1\Grundlæggende programmering\Celcius to Fahrenheit\obj\Debug\net8.0\Celcius to Fahrenheit.pdb
+D:\Datatekniker\H1\Grundlæggende programmering\Celcius to Fahrenheit\obj\Debug\net8.0\Celcius to Fahrenheit.genruntimeconfig.cache
+D:\Datatekniker\H1\Grundlæggende programmering\Celcius to Fahrenheit\obj\Debug\net8.0\ref\Celcius to Fahrenheit.dll

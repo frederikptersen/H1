@@ -1,0 +1,14 @@
+D:\Datatekniker\H1\Grundlæggende programmering\TheCubeOff\bin\Debug\net8.0\TheCubeOff.exe
+D:\Datatekniker\H1\Grundlæggende programmering\TheCubeOff\bin\Debug\net8.0\TheCubeOff.deps.json
+D:\Datatekniker\H1\Grundlæggende programmering\TheCubeOff\bin\Debug\net8.0\TheCubeOff.runtimeconfig.json
+D:\Datatekniker\H1\Grundlæggende programmering\TheCubeOff\bin\Debug\net8.0\TheCubeOff.dll
+D:\Datatekniker\H1\Grundlæggende programmering\TheCubeOff\bin\Debug\net8.0\TheCubeOff.pdb
+D:\Datatekniker\H1\Grundlæggende programmering\TheCubeOff\obj\Debug\net8.0\TheCubeOff.GeneratedMSBuildEditorConfig.editorconfig
+D:\Datatekniker\H1\Grundlæggende programmering\TheCubeOff\obj\Debug\net8.0\TheCubeOff.AssemblyInfoInputs.cache
+D:\Datatekniker\H1\Grundlæggende programmering\TheCubeOff\obj\Debug\net8.0\TheCubeOff.AssemblyInfo.cs
+D:\Datatekniker\H1\Grundlæggende programmering\TheCubeOff\obj\Debug\net8.0\TheCubeOff.csproj.CoreCompileInputs.cache
+D:\Datatekniker\H1\Grundlæggende programmering\TheCubeOff\obj\Debug\net8.0\TheCubeOff.dll
+D:\Datatekniker\H1\Grundlæggende programmering\TheCubeOff\obj\Debug\net8.0\refint\TheCubeOff.dll
+D:\Datatekniker\H1\Grundlæggende programmering\TheCubeOff\obj\Debug\net8.0\TheCubeOff.pdb
+D:\Datatekniker\H1\Grundlæggende programmering\TheCubeOff\obj\Debug\net8.0\TheCubeOff.genruntimeconfig.cache
+D:\Datatekniker\H1\Grundlæggende programmering\TheCubeOff\obj\Debug\net8.0\ref\TheCubeOff.dll

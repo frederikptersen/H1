@@ -1,0 +1,14 @@
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\IfYear\bin\Debug\net8.0\IfYear.exe
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\IfYear\bin\Debug\net8.0\IfYear.deps.json
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\IfYear\bin\Debug\net8.0\IfYear.runtimeconfig.json
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\IfYear\bin\Debug\net8.0\IfYear.dll
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\IfYear\bin\Debug\net8.0\IfYear.pdb
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\IfYear\obj\Debug\net8.0\IfYear.GeneratedMSBuildEditorConfig.editorconfig
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\IfYear\obj\Debug\net8.0\IfYear.AssemblyInfoInputs.cache
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\IfYear\obj\Debug\net8.0\IfYear.AssemblyInfo.cs
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\IfYear\obj\Debug\net8.0\IfYear.csproj.CoreCompileInputs.cache
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\IfYear\obj\Debug\net8.0\IfYear.dll
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\IfYear\obj\Debug\net8.0\refint\IfYear.dll
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\IfYear\obj\Debug\net8.0\IfYear.pdb
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\IfYear\obj\Debug\net8.0\IfYear.genruntimeconfig.cache
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\IfYear\obj\Debug\net8.0\ref\IfYear.dll

@@ -1,0 +1,14 @@
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\Two7\bin\Debug\net8.0\Two7.exe
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\Two7\bin\Debug\net8.0\Two7.deps.json
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\Two7\bin\Debug\net8.0\Two7.runtimeconfig.json
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\Two7\bin\Debug\net8.0\Two7.dll
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\Two7\bin\Debug\net8.0\Two7.pdb
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\Two7\obj\Debug\net8.0\Two7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\Two7\obj\Debug\net8.0\Two7.AssemblyInfoInputs.cache
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\Two7\obj\Debug\net8.0\Two7.AssemblyInfo.cs
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\Two7\obj\Debug\net8.0\Two7.csproj.CoreCompileInputs.cache
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\Two7\obj\Debug\net8.0\Two7.dll
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\Two7\obj\Debug\net8.0\refint\Two7.dll
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\Two7\obj\Debug\net8.0\Two7.pdb
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\Two7\obj\Debug\net8.0\Two7.genruntimeconfig.cache
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\Two7\obj\Debug\net8.0\ref\Two7.dll

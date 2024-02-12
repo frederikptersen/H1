@@ -1,0 +1,14 @@
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\Positive,negativeorzero\bin\Debug\net8.0\Positive,negativeorzero.exe
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\Positive,negativeorzero\bin\Debug\net8.0\Positive,negativeorzero.deps.json
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\Positive,negativeorzero\bin\Debug\net8.0\Positive,negativeorzero.runtimeconfig.json
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\Positive,negativeorzero\bin\Debug\net8.0\Positive,negativeorzero.dll
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\Positive,negativeorzero\bin\Debug\net8.0\Positive,negativeorzero.pdb
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\Positive,negativeorzero\obj\Debug\net8.0\Positive,negativeorzero.GeneratedMSBuildEditorConfig.editorconfig
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\Positive,negativeorzero\obj\Debug\net8.0\Positive,negativeorzero.AssemblyInfoInputs.cache
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\Positive,negativeorzero\obj\Debug\net8.0\Positive,negativeorzero.AssemblyInfo.cs
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\Positive,negativeorzero\obj\Debug\net8.0\Positive,negativeorzero.csproj.CoreCompileInputs.cache
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\Positive,negativeorzero\obj\Debug\net8.0\Positive,negativeorzero.dll
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\Positive,negativeorzero\obj\Debug\net8.0\refint\Positive,negativeorzero.dll
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\Positive,negativeorzero\obj\Debug\net8.0\Positive,negativeorzero.pdb
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\Positive,negativeorzero\obj\Debug\net8.0\Positive,negativeorzero.genruntimeconfig.cache
+D:\Datatekniker\H1\Grundlæggende programmering\Conditional Statements\Positive,negativeorzero\obj\Debug\net8.0\ref\Positive,negativeorzero.dll

@@ -1,0 +1,14 @@
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\SumAndAverage\bin\Debug\net8.0\SumAndAverage.exe
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\SumAndAverage\bin\Debug\net8.0\SumAndAverage.deps.json
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\SumAndAverage\bin\Debug\net8.0\SumAndAverage.runtimeconfig.json
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\SumAndAverage\bin\Debug\net8.0\SumAndAverage.dll
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\SumAndAverage\bin\Debug\net8.0\SumAndAverage.pdb
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\SumAndAverage\obj\Debug\net8.0\SumAndAverage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\SumAndAverage\obj\Debug\net8.0\SumAndAverage.AssemblyInfoInputs.cache
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\SumAndAverage\obj\Debug\net8.0\SumAndAverage.AssemblyInfo.cs
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\SumAndAverage\obj\Debug\net8.0\SumAndAverage.csproj.CoreCompileInputs.cache
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\SumAndAverage\obj\Debug\net8.0\SumAndAverage.dll
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\SumAndAverage\obj\Debug\net8.0\refint\SumAndAverage.dll
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\SumAndAverage\obj\Debug\net8.0\SumAndAverage.pdb
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\SumAndAverage\obj\Debug\net8.0\SumAndAverage.genruntimeconfig.cache
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\SumAndAverage\obj\Debug\net8.0\ref\SumAndAverage.dll

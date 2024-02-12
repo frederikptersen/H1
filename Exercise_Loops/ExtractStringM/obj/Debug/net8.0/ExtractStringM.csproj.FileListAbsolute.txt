@@ -1,0 +1,14 @@
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\ExtractStringM\bin\Debug\net8.0\ExtractStringM.exe
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\ExtractStringM\bin\Debug\net8.0\ExtractStringM.deps.json
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\ExtractStringM\bin\Debug\net8.0\ExtractStringM.runtimeconfig.json
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\ExtractStringM\bin\Debug\net8.0\ExtractStringM.dll
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\ExtractStringM\bin\Debug\net8.0\ExtractStringM.pdb
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\ExtractStringM\obj\Debug\net8.0\ExtractStringM.GeneratedMSBuildEditorConfig.editorconfig
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\ExtractStringM\obj\Debug\net8.0\ExtractStringM.AssemblyInfoInputs.cache
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\ExtractStringM\obj\Debug\net8.0\ExtractStringM.AssemblyInfo.cs
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\ExtractStringM\obj\Debug\net8.0\ExtractStringM.csproj.CoreCompileInputs.cache
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\ExtractStringM\obj\Debug\net8.0\ExtractStringM.dll
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\ExtractStringM\obj\Debug\net8.0\refint\ExtractStringM.dll
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\ExtractStringM\obj\Debug\net8.0\ExtractStringM.pdb
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\ExtractStringM\obj\Debug\net8.0\ExtractStringM.genruntimeconfig.cache
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\ExtractStringM\obj\Debug\net8.0\ref\ExtractStringM.dll

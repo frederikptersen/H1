@@ -1,0 +1,14 @@
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\ThreeIncreasingAdjacent\bin\Debug\net8.0\ThreeIncreasingAdjacent.exe
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\ThreeIncreasingAdjacent\bin\Debug\net8.0\ThreeIncreasingAdjacent.deps.json
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\ThreeIncreasingAdjacent\bin\Debug\net8.0\ThreeIncreasingAdjacent.runtimeconfig.json
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\ThreeIncreasingAdjacent\bin\Debug\net8.0\ThreeIncreasingAdjacent.dll
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\ThreeIncreasingAdjacent\bin\Debug\net8.0\ThreeIncreasingAdjacent.pdb
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\ThreeIncreasingAdjacent\obj\Debug\net8.0\ThreeIncreasingAdjacent.GeneratedMSBuildEditorConfig.editorconfig
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\ThreeIncreasingAdjacent\obj\Debug\net8.0\ThreeIncreasingAdjacent.AssemblyInfoInputs.cache
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\ThreeIncreasingAdjacent\obj\Debug\net8.0\ThreeIncreasingAdjacent.AssemblyInfo.cs
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\ThreeIncreasingAdjacent\obj\Debug\net8.0\ThreeIncreasingAdjacent.csproj.CoreCompileInputs.cache
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\ThreeIncreasingAdjacent\obj\Debug\net8.0\ThreeIncreasingAdjacent.dll
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\ThreeIncreasingAdjacent\obj\Debug\net8.0\refint\ThreeIncreasingAdjacent.dll
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\ThreeIncreasingAdjacent\obj\Debug\net8.0\ThreeIncreasingAdjacent.pdb
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\ThreeIncreasingAdjacent\obj\Debug\net8.0\ThreeIncreasingAdjacent.genruntimeconfig.cache
+D:\Datatekniker\H1\Grundlæggende programmering\Exercise Loops\ThreeIncreasingAdjacent\obj\Debug\net8.0\ref\ThreeIncreasingAdjacent.dll
